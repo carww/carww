@@ -11,3 +11,10 @@ Sou um desenvolvedor [sua especialidade - por exemplo, Front-end, Back-end, Full
 - 💬 Pergunte-me sobre [um tópico que você está confortável para discutir]
 - 📫 Como entrar em contato comigo: [seu e-mail]
 - ⚡ Curiosidade: [uma curiosidade interessante sobre você]
+
+## Minhas Estatísticas
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcarww&show_icons=true)
+
+## Linguagens e Ferramentas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcarww&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
